@@ -1,1 +1,1 @@
-# algo
+# cours-algo
